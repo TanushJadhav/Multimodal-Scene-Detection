@@ -1,2 +1,10 @@
 Dataset/Images/
 Dataset/archive.zip
+
+Model/Pre_trained_models/*
+Model/Saved_Trained_Model/*
+Model/captioning_outputs/*
+
+!Model/Pre_trained_models/.gitignore
+!Model/Saved_Trained_Model/.gitignore
+!Model/captioning_outputs/.gitignore
