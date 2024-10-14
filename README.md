@@ -1,7 +1,3 @@
-Here’s a rewritten version of the `README.md` file for your GitHub repository:
-
----
-
 # Multimodal AI Model for Image Scene Description
 
 This repository contains code for creating a multimodal AI model to generate scene descriptions based on images using the Flickr8K dataset.
