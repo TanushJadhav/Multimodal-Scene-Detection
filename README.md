@@ -7,8 +7,8 @@ This repository contains code for creating a multimodal AI model to generate sce
 ### Step 1: Clone this Repository
 To get started, clone this repository by running the following command:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/TanushJadhav/Scene-Description-using-Multimodal-AI.git
+cd Scene-Description-using-Multimodal-AI
 ```
 
 ### Step 2: Download the Dataset
