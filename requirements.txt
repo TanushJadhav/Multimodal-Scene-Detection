@@ -1,0 +1,8 @@
+os-sys
+pandas
+matplotlib
+wordcloud
+nltk
+torch
+Pillow
+transformers
