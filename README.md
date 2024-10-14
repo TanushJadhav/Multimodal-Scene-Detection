@@ -25,6 +25,6 @@ pip install -r requirements.txt
 ```
 
 ### Step 5: Run the Python Notebook
-Open and run the provided Jupyter notebook (`MMA_Project.ipynb` file) to start training the model and generating descriptions. You can launch the notebook with:
+Open and run the provided Jupyter notebook (`MMA_Project.ipynb` file) to start training the model and generating descriptions.
 
 ---
