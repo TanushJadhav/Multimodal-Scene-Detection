@@ -5,6 +5,12 @@ Model/Pre_trained_models/*
 Model/Saved_Trained_Model/*
 Model/captioning_outputs/*
 
+tokenizer.pkl
+
+trial/*
+
+!trial/.gitignore
+
 !Model/Pre_trained_models/.gitignore
 !Model/Saved_Trained_Model/.gitignore
 !Model/captioning_outputs/.gitignore
